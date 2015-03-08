@@ -1,2 +1,2 @@
 # EAX
-Implementação eficiênte do operador de cossover EAX em python 
+Implementação eficiente do operador de cossover EAX em python 
